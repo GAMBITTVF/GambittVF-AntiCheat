@@ -1,6 +1,6 @@
-# POO--PROJETO-FINAL-
-Este trabalho esta em constante evolução 
-# GambittVF AntiCheat
+GambittVF-AntiCheat 
+Sistema Anticheat desenvolvido em Java utilizando MVC, DAO, Swing e MySQL.
+Este trabalho esta em constante evolução
 
 Sistema desenvolvido em Java utilizando arquitetura MVC, persistência de dados com DAO e banco de dados MySQL.
 
